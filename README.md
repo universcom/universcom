@@ -1,7 +1,10 @@
 Hi to All👋
 
 
-I am a Senior Cloud Engineer with deep knowledge in AWS, OpenStack, Ceph storage, Kubernetes, and Linux OS with more than 7 years of experience in cloud computing IaaS and PaaS. Working as Head of Cloud team including 10 people and Senior Cloud Engineer to Cloudify and maintain some data centers. Implementing scalable, upgradeable, and hyper-converged Infrastructure with full HA in any layer (Controlling/Computing/Networking/Storage) on more than 6 data centers. To additional work as SRE and DevOps Engineer
+Senior Cloud Engineer with more than 5 years of experience in AWS, OpenStack Cloud Platform, Kubernetes Operations, Ceph Storage, and Linux administration.
+Skilled in leading, architecting, planning, deploying, automating, maintaining, and troubleshooting digital services and highly available and complex cloud
+infrastructures based on OpenStack and Ceph as well as cooperating with other teams to meet business requirements. Experienced in Designing, implementing,
+managing, and analyzing scalable, upgradeable, large-scale, hyper-converged, and high-performance Cloud Infrastructure on a variety datacenters and AWS with cloud-native tools to reduce deployment time, downtimes and costs, increasing system performance, and improving user experience.
 
 - 🔭 I’m currently working on Cloud infrastructures including AWS, Kubernetes, and OpenStack
 - 🌱 I’m currently learning AWS, Kubernetes, BGP, EVPN, OpenStack and Ceph
