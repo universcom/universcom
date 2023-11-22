@@ -8,7 +8,7 @@ managing, and analyzing scalable, upgradeable, large-scale, hyper-converged, and
 
 - 🔭 I’m currently working on Cloud infrastructures including AWS, Kubernetes, and OpenStack
 - 🌱 I’m currently learning AWS, Kubernetes, BGP, EVPN, OpenStack and Ceph
-- 👯 I’m looking to collaborate on some projects that is integrate a new service on a cloud environment like VPNaaS, infrastructure multisite, and DPDK on the cloud.
+- 👯 I’m looking forward to people who are interested in collaborating on my projects which is integrate a new service on a cloud environment like VPNaaS, infrastructure multisite, and DPDK on the cloud.
 - 💬 Ask me about cloud computing and Linux
 - 📫 How to reach me: hamed.enayatzare@gmail.com
 <!--
