@@ -1,24 +1,11 @@
-Hi to All👋
+Hello Everyone! 👋
 
+I'm a Senior Cloud Engineer with over 7 years of hands-on experience managing AWS, OpenStack Cloud Platform, Kubernetes Operations, Ceph Storage, and Linux administration. My expertise spans leadership, architecture, planning, deployment, automation, maintenance, and troubleshooting of digital services. I excel in steering highly available and complex cloud infrastructures built on OpenStack and Ceph, collaborating seamlessly with cross-functional teams to achieve business objectives.
 
-Senior Cloud Engineer with over 7 years of extensive expertise in managing AWS, OpenStack Cloud Platform, Kubernetes Operations, Ceph Storage, and Linux administration. Proven proficiency in leadership, architecture, planning, deployment, automation, maintenance, and troubleshooting of digital services. Adept at steering highly available and intricate cloud infrastructures built on OpenStack and Ceph, collaborating seamlessly with cross-functional teams to fulfill business objectives.
+🔭 Currently, I am immersed in working on cloud infrastructures, with a focus on AWS, Kubernetes, and OpenStack.
+🌱 My ongoing learning journey includes AWS, Kubernetes, BGP, EVPN, OpenStack, and Ceph.
+👯 I am eager to connect with individuals interested in collaborating on my projects, which involve integrating new services on cloud environments such as VPNaaS, infrastructure multisite, and DPDK on the cloud.
+💬 Feel free to reach out to me for discussions on cloud computing and Linux.
+📫 You can contact me at hamed.enayatzare@gmail.com.
 
-- 🔭 I’m currently working on Cloud infrastructures including AWS, Kubernetes, and OpenStack
-- 🌱 I’m currently learning AWS, Kubernetes, BGP, EVPN, OpenStack and Ceph
-- 👯 I’m looking forward to people who are interested in collaborating on my projects which is integrate a new service on a cloud environment like VPNaaS, infrastructure multisite, and DPDK on the cloud.
-- 💬 Ask me about cloud computing and Linux
-- 📫 How to reach me: hamed.enayatzare@gmail.com
-<!--
-**universcom/universcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to engaging with the community and exploring exciting opportunities!
